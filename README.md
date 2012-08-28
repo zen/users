@@ -26,7 +26,7 @@ Use knife to create a data bag for users.
 
     knife data bag create users
 
-Create a user in the data_bag/users/ directory.
+Create a user in the data_bag/users/ directory. Or not
 
     knife data bag users bofh
     {
